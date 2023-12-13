@@ -1,16 +1,27 @@
 # the_rec
 
-A new Flutter project.
+Welcome to the The Rec! This project was created as part of a university class to familiarize ourselves with Flutter, UI, and UX design principles. The app is specifically tailored to assist new gym enthusiasts in navigating the University Recreation (UREC) facilities at our university.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+The Rec simplifies the workout experience for users by providing tools to plan workouts, understand which muscle groups correspond to specific machines, navigate to machines within the UREC, connect with workout buddies sharing similar goals, and sign up for both local classes and sports activities within the UREC.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Workout Planning
+Effortlessly plan workout routines tailored to personal fitness goals.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Muscle Group Guidance
+Learn which muscle groups different machines target for a comprehensive workout plan.
+
+3. Machine Locator
+Locate specific workout machines or areas within the UREC facilities.
+
+4. Buddy Connect
+Connect with fellow gym-goers working on similar fitness goals for mutual support and motivation.
+
+5. Class and Sports Registration
+Sign up for fitness classes and sports activities hosted at UREC.
+
+
+
